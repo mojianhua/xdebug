@@ -1,0 +1,6 @@
+1、解压 tax -zxvf 下载文件
+2、sudo /Applications/XAMPP/xamppfiles/bin/phpsize
+3、./configure --with-php-config=/Applications/XAMPP/xamppfiles/bin/php-config
+4、sudo make && sodo make insatll
+5、添加扩展 (cd /Applications/XAMPP/etc)
+6、vi php.ini (extension=xdebug.so)
